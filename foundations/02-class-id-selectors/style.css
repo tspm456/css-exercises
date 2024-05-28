@@ -1,0 +1,19 @@
+.tiger{
+    background-color: #ffa07a;
+    color: #000000;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#parrot{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cat{
+    font-size: 24px;
+}
+
+#kiwi{
+    background-color: #90ee90;
+    font-weight: bold;
+}
